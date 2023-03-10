@@ -1,0 +1,2 @@
+
+print(scores["Abdul"])

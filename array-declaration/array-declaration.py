@@ -1,0 +1,4 @@
+arrayOfInt = []
+arrayOfChar = []
+arrayOfDouble = []
+myArrayOfDouble = []
